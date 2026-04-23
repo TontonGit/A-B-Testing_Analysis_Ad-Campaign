@@ -8,6 +8,7 @@
 ---
 
 ![Confidence Interval](images/confidence_interval.png)
+
 *Plausible values of the true effect (difference in conversion rates)*
 
 ---
